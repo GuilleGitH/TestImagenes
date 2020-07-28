@@ -5,15 +5,5 @@ item {
 
 item {
     id: 2
-    name: 'cladosporium'
-}
-
-item {
-    id: 3
     name: 'negra'
-}
-
-item {
-    id: 4
-    name: 'oidio'
 }

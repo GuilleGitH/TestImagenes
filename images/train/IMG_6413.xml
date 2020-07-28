@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>wetransfer-6ed465</folder>
 	<filename>IMG_6413.JPG</filename>
-	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_6413.JPG</path>
+	<path>C:\Users\Guille\Documents\GitHub\images\Fulvia\wetransfer-6ed465\IMG_6413.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>480</width>
-		<height>480</height>
+		<width>2448</width>
+		<height>2448</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>324</xmin>
-			<ymin>114</ymin>
-			<xmax>424</xmax>
-			<ymax>189</ymax>
+			<xmin>102</xmin>
+			<ymin>390</ymin>
+			<xmax>528</xmax>
+			<ymax>760</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>74</ymin>
-			<xmax>99</xmax>
-			<ymax>139</ymax>
+			<xmin>1705</xmin>
+			<ymin>568</ymin>
+			<xmax>2172</xmax>
+			<ymax>994</ymax>
 		</bndbox>
 	</object>
 </annotation>

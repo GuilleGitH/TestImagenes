@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wetransfer-6ed465</folder>
+	<filename>IMG_8338.JPG</filename>
+	<path>C:\Users\Guille\Documents\GitHub\images\Fulvia\wetransfer-6ed465\IMG_8338.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>negra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1428</xmin>
+			<ymin>616</ymin>
+			<xmax>2069</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>

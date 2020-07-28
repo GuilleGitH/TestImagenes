@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>IMG_6332.JPG</filename>
-	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_6332.JPG</path>
+	<filename>IMG_4849.JPG</filename>
+	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_4849.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,21 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>331</xmin>
-			<ymin>127</ymin>
-			<xmax>456</xmax>
+			<xmin>156</xmin>
+			<ymin>216</ymin>
+			<xmax>324</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blanca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>143</ymin>
+			<xmax>468</xmax>
 			<ymax>219</ymax>
 		</bndbox>
 	</object>
@@ -29,34 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>434</xmin>
-			<ymin>225</ymin>
-			<xmax>516</xmax>
-			<ymax>294</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>blanca</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>153</xmin>
-			<ymin>276</ymin>
-			<xmax>295</xmax>
-			<ymax>353</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>blanca</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>63</xmin>
-			<ymin>411</ymin>
-			<xmax>168</xmax>
-			<ymax>480</ymax>
+			<xmin>118</xmin>
+			<ymin>111</ymin>
+			<xmax>162</xmax>
+			<ymax>154</ymax>
 		</bndbox>
 	</object>
 </annotation>

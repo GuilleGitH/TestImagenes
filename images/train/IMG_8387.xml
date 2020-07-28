@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>IMG_3843.JPG</filename>
-	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_3843.JPG</path>
+	<filename>IMG_8387.JPG</filename>
+	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_8387.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>blanca</name>
+		<name>negra</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
-			<ymin>197</ymin>
-			<xmax>180</xmax>
-			<ymax>286</ymax>
+			<xmin>210</xmin>
+			<ymin>131</ymin>
+			<xmax>380</xmax>
+			<ymax>254</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>blanca</name>
+		<name>negra</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>449</xmin>
-			<ymin>217</ymin>
-			<xmax>524</xmax>
-			<ymax>323</ymax>
+			<xmin>274</xmin>
+			<ymin>326</ymin>
+			<xmax>433</xmax>
+			<ymax>440</ymax>
 		</bndbox>
 	</object>
 </annotation>

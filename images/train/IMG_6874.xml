@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>IMG_3843.JPG</filename>
-	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_3843.JPG</path>
+	<filename>IMG_6874.JPG</filename>
+	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_6874.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
-			<ymin>197</ymin>
-			<xmax>180</xmax>
-			<ymax>286</ymax>
+			<xmin>258</xmin>
+			<ymin>169</ymin>
+			<xmax>429</xmax>
+			<ymax>310</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>449</xmin>
-			<ymin>217</ymin>
-			<xmax>524</xmax>
-			<ymax>323</ymax>
+			<xmin>434</xmin>
+			<ymin>28</ymin>
+			<xmax>598</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Fulvia</folder>
+	<folder>train</folder>
 	<filename>IMG_3850.JPG</filename>
-	<path>C:\Users\Guille\Documents\Fulvia\IMG_3850.JPG</path>
+	<path>C:\Users\Guille\Documents\GitHub\TestImagenes\images\train\IMG_3850.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>214</xmin>
-			<ymin>149</ymin>
-			<xmax>348</xmax>
-			<ymax>289</ymax>
+			<xmin>222</xmin>
+			<ymin>142</ymin>
+			<xmax>353</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>

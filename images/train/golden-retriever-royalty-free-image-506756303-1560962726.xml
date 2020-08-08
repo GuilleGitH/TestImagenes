@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>verify</folder>
+	<filename>golden-retriever-royalty-free-image-506756303-1560962726.jpg</filename>
+	<path>C:\Users\colo_\Desktop\verify\golden-retriever-royalty-free-image-506756303-1560962726.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
